@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import Restaurantsidebar from '../Components/Restaurantsidebar'
+import Restaurantsidebar from '../components/Restaurantsidebar'
 import Restaurantcharts from '../Restaurant/Restaurantcharts'
 const RestaurantDashboard = () => {
 

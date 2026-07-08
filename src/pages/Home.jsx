@@ -1,7 +1,7 @@
 import React from 'react'
-import Navbar from '../Components/Navbar'
-import Section from '../Components/Section'
-import Sectiontwo from '../Components/Sectiontwo'
+import Navbar from '../components/Navbar'
+import Section from '../components/Section'
+import Sectiontwo from '../components/Sectiontwo'
 
 
 
