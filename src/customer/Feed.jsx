@@ -1,7 +1,7 @@
 import Sidebar from '../Components/Sidebar'
 import Header from '../Components/Header'
 import React, { useEffect, useState } from 'react'
-import FoodCard from '../Components/FoodCard'
+import FoodCard from '../Components/Foodcard'
 import { Key } from 'lucide-react'
 import { useSelector } from 'react-redux'
 import { useNavigate } from 'react-router-dom'
