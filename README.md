@@ -1,18 +1,53 @@
-# React + Vite
+# 🍔 Foodie Hub
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Foodie Hub is a full-stack food ordering web application built using React.js and Express.js. Customers can browse food items, add them to cart, place orders, and track order history. Restaurant owners can manage food items and view orders through a dashboard.
 
-Currently, two official plugins are available:
+##  Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Frontend:https://foodie-hub-frontend-22ah8s5ej-foodiehub56.vercel.app/
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+### Customer
+- Customer Signup & Login
+- Browse Food Menu
+- Search Foods
+- Add to Cart
+- Favorites
+- Place Orders
+- Order History
 
-Note: This will impact Vite dev & build performances.
+### Restaurant
+- Restaurant Signup & Login
+- Restaurant Dashboard
+- Add Food
+- Update Food
+- Delete Food
+- View Customer Orders
 
-## Expanding the ESLint configuration
+##  Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- Redux Toolkit
+- Tailwind CSS
+- React Router
+- Express.js
+- JSON Database (db.json)
+- Vercel (Frontend Deployment)
+- Render (Backend Deployment)
+
+##  Installation
+
+bash
+git clone https://github.com/srikha56/foodie-hub.git
+
+cd foodie-hub
+
+npm install
+
+npm run dev
+
+
+## 👩‍💻 Author
+
+*Srikhaa G
