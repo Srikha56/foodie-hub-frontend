@@ -1,6 +1,6 @@
 # 🍔 Foodie Hub
 
-Foodie Hub is a full-stack food ordering web application built using React.js and Express.js. Customers can browse food items, add them to cart, place orders, and track order history. Restaurant owners can manage food items and view orders through a dashboard.
+Foodie Hub is a  food ordering web application built using React.js and Express.js. Customers can browse food items, add them to cart, place orders, and track order history. Restaurant owners can manage food items and view orders through a dashboard.
 
 ##  Live Demo
 
